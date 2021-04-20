@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneca BIC",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 4000
+    },
+    {
+      "id": 3,
+      "name": "Video Game",
+      "price": 3000
+    },
+    {
+      "name": "Maquina de Lavar",
+      "price": "3000",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.55",
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.55",
+      "id": 6
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.55",
+      "id": 7
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.55",
+      "id": 8
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.55",
+      "id": 9
+    }
+  ]
+}
